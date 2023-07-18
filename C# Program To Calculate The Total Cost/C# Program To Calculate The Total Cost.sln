@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# Program To Calculate The Total Cost", "C# Program To Calculate The Total Cost.csproj", "{7B8E362F-C7E0-45D0-BE80-1AA9A082013C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8E362F-C7E0-45D0-BE80-1AA9A082013C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8E362F-C7E0-45D0-BE80-1AA9A082013C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8E362F-C7E0-45D0-BE80-1AA9A082013C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8E362F-C7E0-45D0-BE80-1AA9A082013C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95892B87-4E54-44E3-B170-1375B6AFC33F}
+	EndGlobalSection
+EndGlobal
