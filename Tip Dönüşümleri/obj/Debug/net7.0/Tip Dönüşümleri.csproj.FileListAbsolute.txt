@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Tip Dönüşümleri\bin\Debug\net7.0\Tip Dönüşümleri.exe
+C:\Users\kubra\Desktop\Tip Dönüşümleri\bin\Debug\net7.0\Tip Dönüşümleri.deps.json
+C:\Users\kubra\Desktop\Tip Dönüşümleri\bin\Debug\net7.0\Tip Dönüşümleri.runtimeconfig.json
+C:\Users\kubra\Desktop\Tip Dönüşümleri\bin\Debug\net7.0\Tip Dönüşümleri.dll
+C:\Users\kubra\Desktop\Tip Dönüşümleri\bin\Debug\net7.0\Tip Dönüşümleri.pdb
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.dll
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\refint\Tip Dönüşümleri.dll
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.pdb
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\Tip Dönüşümleri.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Tip Dönüşümleri\obj\Debug\net7.0\ref\Tip Dönüşümleri.dll
