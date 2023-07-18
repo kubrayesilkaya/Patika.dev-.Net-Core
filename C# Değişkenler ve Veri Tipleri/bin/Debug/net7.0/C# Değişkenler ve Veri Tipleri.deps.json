@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C# Değişkenler ve Veri Tipleri/1.0.0": {
+        "runtime": {
+          "C# Değişkenler ve Veri Tipleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Değişkenler ve Veri Tipleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

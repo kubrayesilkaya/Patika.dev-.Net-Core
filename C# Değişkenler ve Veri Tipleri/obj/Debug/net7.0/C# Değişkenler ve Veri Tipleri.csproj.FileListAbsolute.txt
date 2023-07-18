@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\bin\Debug\net7.0\C# Değişkenler ve Veri Tipleri.exe
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\bin\Debug\net7.0\C# Değişkenler ve Veri Tipleri.deps.json
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\bin\Debug\net7.0\C# Değişkenler ve Veri Tipleri.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\bin\Debug\net7.0\C# Değişkenler ve Veri Tipleri.dll
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\bin\Debug\net7.0\C# Değişkenler ve Veri Tipleri.pdb
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.dll
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\refint\C# Değişkenler ve Veri Tipleri.dll
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.pdb
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\C# Değişkenler ve Veri Tipleri.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Değişkenler ve Veri Tipleri\obj\Debug\net7.0\ref\C# Değişkenler ve Veri Tipleri.dll
