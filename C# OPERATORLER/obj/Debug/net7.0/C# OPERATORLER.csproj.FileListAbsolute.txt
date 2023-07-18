@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# OPERATORLER\bin\Debug\net7.0\C# OPERATORLER.exe
+C:\Users\kubra\Desktop\C# OPERATORLER\bin\Debug\net7.0\C# OPERATORLER.deps.json
+C:\Users\kubra\Desktop\C# OPERATORLER\bin\Debug\net7.0\C# OPERATORLER.runtimeconfig.json
+C:\Users\kubra\Desktop\C# OPERATORLER\bin\Debug\net7.0\C# OPERATORLER.dll
+C:\Users\kubra\Desktop\C# OPERATORLER\bin\Debug\net7.0\C# OPERATORLER.pdb
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.dll
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\refint\C# OPERATORLER.dll
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.pdb
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\C# OPERATORLER.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# OPERATORLER\obj\Debug\net7.0\ref\C# OPERATORLER.dll
