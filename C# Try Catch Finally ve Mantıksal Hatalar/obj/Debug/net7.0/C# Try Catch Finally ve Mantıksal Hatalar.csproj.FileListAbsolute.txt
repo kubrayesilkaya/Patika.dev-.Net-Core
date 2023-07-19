@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\bin\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.exe
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\bin\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.deps.json
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\bin\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\bin\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\bin\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.pdb
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\refint\C# Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.pdb
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\C# Try Catch Finally ve Mantıksal Hatalar.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Try Catch Finally ve Mantıksal Hatalar\obj\Debug\net7.0\ref\C# Try Catch Finally ve Mantıksal Hatalar.dll
