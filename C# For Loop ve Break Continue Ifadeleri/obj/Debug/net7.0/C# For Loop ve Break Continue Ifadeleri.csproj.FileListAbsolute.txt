@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\bin\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.exe
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\bin\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.deps.json
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\bin\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.runtimeconfig.json
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\bin\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.dll
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\bin\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.dll
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\refint\C# For Loop ve Break Continue Ifadeleri.dll
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\C# For Loop ve Break Continue Ifadeleri.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# For Loop ve Break Continue Ifadeleri\obj\Debug\net7.0\ref\C# For Loop ve Break Continue Ifadeleri.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C# For Loop ve Break Continue Ifadeleri/1.0.0": {
+        "runtime": {
+          "C# For Loop ve Break Continue Ifadeleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# For Loop ve Break Continue Ifadeleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
