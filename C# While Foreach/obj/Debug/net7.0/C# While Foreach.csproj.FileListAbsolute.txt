@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# While Foreach\bin\Debug\net7.0\C# While Foreach.exe
+C:\Users\kubra\Desktop\C# While Foreach\bin\Debug\net7.0\C# While Foreach.deps.json
+C:\Users\kubra\Desktop\C# While Foreach\bin\Debug\net7.0\C# While Foreach.runtimeconfig.json
+C:\Users\kubra\Desktop\C# While Foreach\bin\Debug\net7.0\C# While Foreach.dll
+C:\Users\kubra\Desktop\C# While Foreach\bin\Debug\net7.0\C# While Foreach.pdb
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.dll
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\refint\C# While Foreach.dll
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.pdb
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\C# While Foreach.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# While Foreach\obj\Debug\net7.0\ref\C# While Foreach.dll
