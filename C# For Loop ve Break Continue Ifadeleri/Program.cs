@@ -47,8 +47,8 @@ namespace C__For_Loop_ve_Break_Continue_Ifadeleri
             }
 
             //Döngü içerisinde döngü kullanmamız gereken durumlarda direkt sadece kendi içindeki current loop'u (o an içinde olduğu loopu) sonlandırır.
-            //Eğer iç içe üç tane loop varsa ve en içteki loop içerisinde bir case'e bağlı olarak bir tane break ifadesi kullanıldıysa, tüm üstteki iki loop sonlanmaz,
-            //orası devam eder ve her zaman en içteki loptan çıkmmış olur.
+            //Eğer iç içe üç tane loop varsa ve en içteki loop içerisinde bir case'e bağlı olarak bir tane break ifadesi kullanıldıysa, 
+            //tüm üstteki iki loop sonlanmaz, orası devam eder ve her zaman en içteki loptan çıkmmış olur.
 
         }
     }
