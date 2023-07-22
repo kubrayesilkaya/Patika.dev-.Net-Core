@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Metot Overloading\bin\Debug\net7.0\C# Metot Overloading.exe
+C:\Users\kubra\Desktop\C# Metot Overloading\bin\Debug\net7.0\C# Metot Overloading.deps.json
+C:\Users\kubra\Desktop\C# Metot Overloading\bin\Debug\net7.0\C# Metot Overloading.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Metot Overloading\bin\Debug\net7.0\C# Metot Overloading.dll
+C:\Users\kubra\Desktop\C# Metot Overloading\bin\Debug\net7.0\C# Metot Overloading.pdb
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.dll
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\refint\C# Metot Overloading.dll
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.pdb
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\C# Metot Overloading.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Metot Overloading\obj\Debug\net7.0\ref\C# Metot Overloading.dll
