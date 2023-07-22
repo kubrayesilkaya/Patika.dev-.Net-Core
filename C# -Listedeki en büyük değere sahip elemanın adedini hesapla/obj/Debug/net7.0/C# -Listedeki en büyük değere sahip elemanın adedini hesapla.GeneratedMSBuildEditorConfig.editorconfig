@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C___Listedeki_en_büyük_değere_sahip_elemanın_adedini_hesapla
+build_property.ProjectDir = c:\Users\kubra\Desktop\C# -Listedeki en büyük değere sahip elemanın adedini hesapla\
