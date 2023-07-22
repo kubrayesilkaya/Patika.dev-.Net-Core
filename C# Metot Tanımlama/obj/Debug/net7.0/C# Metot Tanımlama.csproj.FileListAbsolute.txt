@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Metot Tanımlama\bin\Debug\net7.0\C# Metot Tanımlama.exe
+C:\Users\kubra\Desktop\C# Metot Tanımlama\bin\Debug\net7.0\C# Metot Tanımlama.deps.json
+C:\Users\kubra\Desktop\C# Metot Tanımlama\bin\Debug\net7.0\C# Metot Tanımlama.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Metot Tanımlama\bin\Debug\net7.0\C# Metot Tanımlama.dll
+C:\Users\kubra\Desktop\C# Metot Tanımlama\bin\Debug\net7.0\C# Metot Tanımlama.pdb
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.dll
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\refint\C# Metot Tanımlama.dll
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.pdb
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\C# Metot Tanımlama.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Metot Tanımlama\obj\Debug\net7.0\ref\C# Metot Tanımlama.dll
