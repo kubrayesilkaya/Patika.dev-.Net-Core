@@ -61,7 +61,7 @@ namespace C__Rek_rsif_ve_Extension_Metotlar
         //Extension class'lar ve extension metotlar static olmalı. Static olmaz ise bunlara erişemeyiz; 
         //Çünkü nesnesi olmadan erişebiliyor olmamız gerekiyor.
 
-        public static class Extesion{
+        public static class Extension{
             public static bool CheckSpaces(this string param)
             {
                 //Contains bir string kütüphanesi metodudur.
