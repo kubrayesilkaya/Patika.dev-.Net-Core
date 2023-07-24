@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekürsif ve Extension Metotlar", "Rekürsif ve Extension Metotlar.csproj", "{BD984E4D-F0F2-465C-8FE3-BF9C40E0BEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD984E4D-F0F2-465C-8FE3-BF9C40E0BEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD984E4D-F0F2-465C-8FE3-BF9C40E0BEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD984E4D-F0F2-465C-8FE3-BF9C40E0BEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD984E4D-F0F2-465C-8FE3-BF9C40E0BEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F255FA6-8376-462E-804C-2D155376BD4C}
+	EndGlobalSection
+EndGlobal
