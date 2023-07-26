@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Algoritma Soruları\bin\Debug\net7.0\Algoritma Soruları.exe
+C:\Users\kubra\Desktop\Algoritma Soruları\bin\Debug\net7.0\Algoritma Soruları.deps.json
+C:\Users\kubra\Desktop\Algoritma Soruları\bin\Debug\net7.0\Algoritma Soruları.runtimeconfig.json
+C:\Users\kubra\Desktop\Algoritma Soruları\bin\Debug\net7.0\Algoritma Soruları.dll
+C:\Users\kubra\Desktop\Algoritma Soruları\bin\Debug\net7.0\Algoritma Soruları.pdb
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.dll
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\refint\Algoritma Soruları.dll
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.pdb
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\Algoritma Soruları.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Algoritma Soruları\obj\Debug\net7.0\ref\Algoritma Soruları.dll
