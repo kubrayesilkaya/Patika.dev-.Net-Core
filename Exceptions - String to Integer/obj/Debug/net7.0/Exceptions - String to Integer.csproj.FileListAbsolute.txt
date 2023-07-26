@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Exceptions - String to Integer\bin\Debug\net7.0\Exceptions - String to Integer.exe
+C:\Users\kubra\Desktop\Exceptions - String to Integer\bin\Debug\net7.0\Exceptions - String to Integer.deps.json
+C:\Users\kubra\Desktop\Exceptions - String to Integer\bin\Debug\net7.0\Exceptions - String to Integer.runtimeconfig.json
+C:\Users\kubra\Desktop\Exceptions - String to Integer\bin\Debug\net7.0\Exceptions - String to Integer.dll
+C:\Users\kubra\Desktop\Exceptions - String to Integer\bin\Debug\net7.0\Exceptions - String to Integer.pdb
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.dll
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\refint\Exceptions - String to Integer.dll
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.pdb
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\Exceptions - String to Integer.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Exceptions - String to Integer\obj\Debug\net7.0\ref\Exceptions - String to Integer.dll
