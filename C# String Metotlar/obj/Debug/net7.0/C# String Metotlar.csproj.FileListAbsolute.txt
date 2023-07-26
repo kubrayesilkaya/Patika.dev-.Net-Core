@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# String Metotlar\bin\Debug\net7.0\C# String Metotlar.exe
+C:\Users\kubra\Desktop\C# String Metotlar\bin\Debug\net7.0\C# String Metotlar.deps.json
+C:\Users\kubra\Desktop\C# String Metotlar\bin\Debug\net7.0\C# String Metotlar.runtimeconfig.json
+C:\Users\kubra\Desktop\C# String Metotlar\bin\Debug\net7.0\C# String Metotlar.dll
+C:\Users\kubra\Desktop\C# String Metotlar\bin\Debug\net7.0\C# String Metotlar.pdb
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.dll
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\refint\C# String Metotlar.dll
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.pdb
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\C# String Metotlar.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# String Metotlar\obj\Debug\net7.0\ref\C# String Metotlar.dll
