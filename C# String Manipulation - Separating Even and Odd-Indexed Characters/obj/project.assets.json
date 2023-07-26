@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kubra\\Documents\\GitHub\\Patika.dev-.Net-Core-\\Exceptions - String to Integer\\Exceptions - String to Integer.csproj",
-      "projectName": "Exceptions - String to Integer",
-      "projectPath": "C:\\Users\\kubra\\Documents\\GitHub\\Patika.dev-.Net-Core-\\Exceptions - String to Integer\\Exceptions - String to Integer.csproj",
+      "projectUniqueName": "C:\\Users\\kubra\\Desktop\\C# String Manipulation - Separating Even and Odd-Indexed Characters\\C# String Manipulation - Separating Even and Odd-Indexed Characters.csproj",
+      "projectName": "C# String Manipulation - Separating Even and Odd-Indexed Characters",
+      "projectPath": "C:\\Users\\kubra\\Desktop\\C# String Manipulation - Separating Even and Odd-Indexed Characters\\C# String Manipulation - Separating Even and Odd-Indexed Characters.csproj",
       "packagesPath": "C:\\Users\\kubra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kubra\\Documents\\GitHub\\Patika.dev-.Net-Core-\\Exceptions - String to Integer\\obj\\",
+      "outputPath": "C:\\Users\\kubra\\Desktop\\C# String Manipulation - Separating Even and Odd-Indexed Characters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kubra\\AppData\\Roaming\\NuGet\\NuGet.Config",
