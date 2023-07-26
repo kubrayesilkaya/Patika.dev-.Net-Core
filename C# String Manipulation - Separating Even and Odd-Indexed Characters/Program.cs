@@ -5,6 +5,15 @@ class Solution {
     static void Main(String[] args) {
 
         //print the even-indexed and odd-indexed characters as 2 space-separated strings on a single line
+        /*Sample Input:
+        *    2
+        *    Hacker
+        *    Rank
+        *
+        * Sample Output:
+        *    Hce akr
+        *    Rn ak
+        */
         
         int number_testCases= int.Parse(Console.ReadLine());
         
