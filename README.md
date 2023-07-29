@@ -1,2 +1,2 @@
-# Patika.dev | .Net-Core
-Patika.dev | .Net Core Path | homework and studies
+# Patika.dev | .Net-Core | C# Programming
+Patika.dev | .Net Core Path | C# | homeworks and studies
