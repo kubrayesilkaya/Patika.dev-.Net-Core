@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj": {}
+    "c:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj": {
+    "c:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj",
+        "projectUniqueName": "c:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj",
         "projectName": "C# Generic Koleksiyonlar ve List",
-        "projectPath": "C:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj",
+        "projectPath": "c:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\C# Generic Koleksiyonlar ve List.csproj",
         "packagesPath": "C:\\Users\\kubra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\obj\\",
+        "outputPath": "c:\\Users\\kubra\\Desktop\\C# Generic Koleksiyonlar ve List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kubra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -85,6 +85,24 @@ namespace C__Generic_Koleksiyonlar_ve_List
             kullanıcıListesi.Add(kullanıcı1);
             kullanıcıListesi.Add(kullanıcı2);
 
+            //Kullanıcılar class'ının nesnelerinden oluşan, kullanıcılar tipinde bir listeye 2 tane kullanıcı ekledik
+            //Ve bu kullanıcıların kendi içinde 3 tane proporty'si (isim, s.isim ve yaş) var.
+
+            List<Kullanıcılar> yeniListe= new List<Kullanıcılar>();
+            yeniListe.Add(new Kullanıcılar(){
+                Isim="Deniz",
+                Soyisim="Arda",
+                Yas=24
+            });
+
+            foreach (Kullanıcılar kullanıcı in kullanıcıListesi) // kullanıcı Kullanıcılar tipinde bir nesne
+            {
+                Console.WriteLine("Kullanıcı Adı: " + kullanıcı.Isim);
+                Console.WriteLine("Kullanıcı Soyadı: " + kullanıcı.Soyisim);
+                Console.WriteLine("Kullanıcı Yas: " + kullanıcı.Yas);
+            }
+            yeniListe.Clear();
+
                    
         }
 
