@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\bin\Debug\net7.0\C# Generic Koleksiyonlar ve List.exe
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\bin\Debug\net7.0\C# Generic Koleksiyonlar ve List.deps.json
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\bin\Debug\net7.0\C# Generic Koleksiyonlar ve List.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\bin\Debug\net7.0\C# Generic Koleksiyonlar ve List.dll
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\bin\Debug\net7.0\C# Generic Koleksiyonlar ve List.pdb
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.dll
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\refint\C# Generic Koleksiyonlar ve List.dll
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.pdb
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\C# Generic Koleksiyonlar ve List.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Generic Koleksiyonlar ve List\obj\Debug\net7.0\ref\C# Generic Koleksiyonlar ve List.dll
