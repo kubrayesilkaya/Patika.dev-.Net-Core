@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\bin\Debug\net7.0\A program that takes word input as many as the number entered by the user.exe
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\bin\Debug\net7.0\A program that takes word input as many as the number entered by the user.deps.json
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\bin\Debug\net7.0\A program that takes word input as many as the number entered by the user.runtimeconfig.json
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\bin\Debug\net7.0\A program that takes word input as many as the number entered by the user.dll
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\bin\Debug\net7.0\A program that takes word input as many as the number entered by the user.pdb
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.AssemblyInfo.cs
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.dll
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\refint\A program that takes word input as many as the number entered by the user.dll
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.pdb
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\A program that takes word input as many as the number entered by the user.genruntimeconfig.cache
+C:\Users\kubra\Desktop\A program that takes word input as many as the number entered by the user\obj\Debug\net7.0\ref\A program that takes word input as many as the number entered by the user.dll
