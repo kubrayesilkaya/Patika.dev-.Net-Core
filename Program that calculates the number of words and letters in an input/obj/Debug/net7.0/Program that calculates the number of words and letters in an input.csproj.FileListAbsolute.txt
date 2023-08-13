@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\bin\Debug\net7.0\Program that calculates the number of words and letters in an input.exe
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\bin\Debug\net7.0\Program that calculates the number of words and letters in an input.deps.json
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\bin\Debug\net7.0\Program that calculates the number of words and letters in an input.runtimeconfig.json
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\bin\Debug\net7.0\Program that calculates the number of words and letters in an input.dll
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\bin\Debug\net7.0\Program that calculates the number of words and letters in an input.pdb
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.dll
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\refint\Program that calculates the number of words and letters in an input.dll
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.pdb
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\Program that calculates the number of words and letters in an input.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Program that calculates the number of words and letters in an input\obj\Debug\net7.0\ref\Program that calculates the number of words and letters in an input.dll
