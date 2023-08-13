@@ -33,10 +33,6 @@ namespace Numbers_divisible_by_a_certain_number
                     Console.WriteLine(numbers);
                 }
             }
-
-             
-
-
         }
     }
 }
