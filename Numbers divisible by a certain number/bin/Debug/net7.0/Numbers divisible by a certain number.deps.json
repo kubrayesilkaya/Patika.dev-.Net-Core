@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Numbers divisible by a certain number/1.0.0": {
+        "runtime": {
+          "Numbers divisible by a certain number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numbers divisible by a certain number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

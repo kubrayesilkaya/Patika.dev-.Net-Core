@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\bin\Debug\net7.0\Numbers divisible by a certain number.exe
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\bin\Debug\net7.0\Numbers divisible by a certain number.deps.json
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\bin\Debug\net7.0\Numbers divisible by a certain number.runtimeconfig.json
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\bin\Debug\net7.0\Numbers divisible by a certain number.dll
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\bin\Debug\net7.0\Numbers divisible by a certain number.pdb
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.dll
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\refint\Numbers divisible by a certain number.dll
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.pdb
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\Numbers divisible by a certain number.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Numbers divisible by a certain number\obj\Debug\net7.0\ref\Numbers divisible by a certain number.dll
