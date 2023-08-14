@@ -22,6 +22,12 @@ class Result
      *  1. INTEGER_ARRAY a
      *  2. INTEGER_ARRAY b
      */
+     /*
+     *
+     * a[i] > b[i] -> a receives 1 point.
+     * a[i] = b[i] -> nobody receives a point.
+     * a[i] > b[i] -> b receives 1 point.
+     */
 
     public static List<int> compareTriplets(List<int> a, List<int> b)
     {
