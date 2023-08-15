@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\bin\Debug\net7.0\C# Datetime ve Math Sınıfları.exe
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\bin\Debug\net7.0\C# Datetime ve Math Sınıfları.deps.json
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\bin\Debug\net7.0\C# Datetime ve Math Sınıfları.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\bin\Debug\net7.0\C# Datetime ve Math Sınıfları.dll
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\bin\Debug\net7.0\C# Datetime ve Math Sınıfları.pdb
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.dll
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\refint\C# Datetime ve Math Sınıfları.dll
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.pdb
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\C# Datetime ve Math Sınıfları.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Datetime ve Math Sınıfları\obj\Debug\net7.0\ref\C# Datetime ve Math Sınıfları.dll
