@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\bin\Debug\net7.0\C# Encapsulation ve Property Kavramı.exe
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\bin\Debug\net7.0\C# Encapsulation ve Property Kavramı.deps.json
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\bin\Debug\net7.0\C# Encapsulation ve Property Kavramı.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\bin\Debug\net7.0\C# Encapsulation ve Property Kavramı.dll
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\bin\Debug\net7.0\C# Encapsulation ve Property Kavramı.pdb
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.dll
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\refint\C# Encapsulation ve Property Kavramı.dll
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.pdb
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\C# Encapsulation ve Property Kavramı.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Encapsulation ve Property Kavramı\obj\Debug\net7.0\ref\C# Encapsulation ve Property Kavramı.dll
