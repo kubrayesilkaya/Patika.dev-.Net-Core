@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.exe
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.deps.json
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\refint\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net7.0\ref\C# Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
