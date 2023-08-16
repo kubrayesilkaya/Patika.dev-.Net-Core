@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.exe
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.deps.json
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.runtimeconfig.json
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\refint\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\ref\Sınıf Nedir  Instance, Field, Property.dll
