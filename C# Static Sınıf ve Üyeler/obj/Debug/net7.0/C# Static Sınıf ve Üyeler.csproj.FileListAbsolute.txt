@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\bin\Debug\net7.0\C# Static Sınıf ve Üyeler.exe
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\bin\Debug\net7.0\C# Static Sınıf ve Üyeler.deps.json
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\bin\Debug\net7.0\C# Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\bin\Debug\net7.0\C# Static Sınıf ve Üyeler.dll
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\bin\Debug\net7.0\C# Static Sınıf ve Üyeler.pdb
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.dll
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\refint\C# Static Sınıf ve Üyeler.dll
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.pdb
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\C# Static Sınıf ve Üyeler.genruntimeconfig.cache
+C:\Users\kubra\Desktop\C# Static Sınıf ve Üyeler\obj\Debug\net7.0\ref\C# Static Sınıf ve Üyeler.dll
