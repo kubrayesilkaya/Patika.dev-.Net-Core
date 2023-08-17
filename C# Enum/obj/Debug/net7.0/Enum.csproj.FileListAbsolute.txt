@@ -1,0 +1,15 @@
+C:\Users\kubra\Desktop\Enum\bin\Debug\net7.0\Enum.exe
+C:\Users\kubra\Desktop\Enum\bin\Debug\net7.0\Enum.deps.json
+C:\Users\kubra\Desktop\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+C:\Users\kubra\Desktop\Enum\bin\Debug\net7.0\Enum.dll
+C:\Users\kubra\Desktop\Enum\bin\Debug\net7.0\Enum.pdb
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.dll
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\refint\Enum.dll
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.pdb
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+C:\Users\kubra\Desktop\Enum\obj\Debug\net7.0\ref\Enum.dll
