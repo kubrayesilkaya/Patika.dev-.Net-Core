@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\bin\Debug\Koleksiyonlar Algoritma 1.exe.config
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\bin\Debug\Koleksiyonlar Algoritma 1.exe
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\bin\Debug\Koleksiyonlar Algoritma 1.pdb
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\obj\Debug\Koleksiyonlar Algoritma 1.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\obj\Debug\Koleksiyonlar Algoritma 1.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\obj\Debug\Koleksiyonlar Algoritma 1.exe
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma 1\Koleksiyonlar Algoritma 1\obj\Debug\Koleksiyonlar Algoritma 1.pdb
