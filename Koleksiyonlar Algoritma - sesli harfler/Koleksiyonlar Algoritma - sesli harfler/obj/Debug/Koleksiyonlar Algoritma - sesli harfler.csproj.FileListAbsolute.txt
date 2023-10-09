@@ -1,0 +1,7 @@
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\bin\Debug\Koleksiyonlar Algoritma - sesli harfler.exe.config
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\bin\Debug\Koleksiyonlar Algoritma - sesli harfler.exe
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\bin\Debug\Koleksiyonlar Algoritma - sesli harfler.pdb
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\obj\Debug\Koleksiyonlar Algoritma - sesli harfler.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\obj\Debug\Koleksiyonlar Algoritma - sesli harfler.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\obj\Debug\Koleksiyonlar Algoritma - sesli harfler.exe
+C:\Users\kubra\Desktop\Koleksiyonlar Algoritma - sesli harfler\Koleksiyonlar Algoritma - sesli harfler\obj\Debug\Koleksiyonlar Algoritma - sesli harfler.pdb
